@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="startcolor">#FF8551</color>
+    <color name="endcolor">#F87238</color>
+
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#FF000000</color>
+
+    <color name="homestartcolor">#564ACA</color>
+    <color name="homeendcolor">#359CC5</color>
+
+    <color name="lightblue">#6622CC</color>
+    <color name="darkblue">#22CCC2</color>
+    <color name="gray">#F1F1F1</color>
+    <color name="darkgray">#B5AEBE</color>
+
+    <color name="numbercolorgray">#AAAAAA</color>
+
+</resources>

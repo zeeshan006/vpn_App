@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">One Wood Vpn</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="privacyPolicy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+
+    <string name="serverlink">Please Slide to Right Side</string>
+
+    <string name="firstBoardFirstText">Super fast Connection</string>
+    <string name="firstBoardSecondText">Make your browsing super fast and stable.</string>
+
+    <string name="secondBoardFirstText">Secure Servers</string>
+    <string name="secondBoardSecondText">Allow you a worldwide secure servers.</string>
+
+    <string name="thirdBoardFirstText">Plans Make it More Functional</string>
+    <string name="thirdBoardSecondText">Membership Plans make your browsing more smooth</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
